@@ -9,7 +9,7 @@ const Register = () => {
                      <div className=" text-4xl font-bold"><h1>Register Now</h1></div>
                     <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
                     
-                    <form className="card-body">
+                    <form className="lg:card-body py-4 px-2">
                         <div className="form-control">
                         <label className="label">
                             <span className="label-text">Name</span>

@@ -8,10 +8,10 @@ const Login = () => {
                 
                 <div className="hero-content flex-col">
                      <div className=" text-4xl font-bold"><h1>Login Form</h1></div>
-                    <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+                    <div className="card flex-shrink-0  max-w-sm shadow-2xl bg-base-100">
                     
-                    <form className="card-body">
-                        <div className="form-control">
+                    <form className=" lg:card-body px-2 py-4">
+                        <div className=" form-control">
                         <label className="label">
                             <span className="label-text">Email</span>
                         </label>
